@@ -11,6 +11,7 @@
 
 	<artifactId>bungee</artifactId>
 	<name>RouterNet-Mc-bungee</name>
+	<url>https://github.com/mickare/RouterNet-Minecraft</url>
 
 	<dependencies>
 		<dependency>

@@ -5,8 +5,8 @@ import java.util.concurrent.ScheduledExecutorService;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 
-import de.mickare.net.NetClient;
-import de.mickare.net.protocol.NetworkProtocol.NodeMessage;
+import de.mickare.routernet.NetClient;
+import de.mickare.routernet.protocol.NetworkProtocol.NodeMessage;
 import net.md_5.bungee.api.plugin.Plugin;
 import net.md_5.bungee.api.scheduler.GroupedThreadFactory;
 

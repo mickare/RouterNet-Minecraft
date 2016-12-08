@@ -8,8 +8,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 
-import de.mickare.net.NetClient;
-import de.mickare.net.protocol.NetworkProtocol.NodeMessage;
+import de.mickare.routernet.NetClient;
+import de.mickare.routernet.protocol.NetworkProtocol.NodeMessage;
 
 public class NetPlugin extends JavaPlugin {
 	

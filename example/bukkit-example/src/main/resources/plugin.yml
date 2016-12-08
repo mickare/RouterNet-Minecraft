@@ -1,5 +1,5 @@
 name: RouterNetMc-BukkitExample
-main: de.rennschnitzel.routernet.mc.bukkit.BukkitExamplePlugin
+main: de.mickare.routernet.mc.bukkit.BukkitExamplePlugin
 version: 0.0.2
 website: https://github.com/mickare/RouterNet-Minecraft
 authors: [mickare]

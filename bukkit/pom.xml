@@ -11,6 +11,7 @@
 
 	<artifactId>bukkit</artifactId>
 	<name>RouterNet-MC-bukkit</name>
+	<url>https://github.com/mickare/RouterNet-Minecraft</url>
 
 	<dependencies>
 		<dependency>
