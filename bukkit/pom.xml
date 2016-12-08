@@ -115,14 +115,14 @@
 	</distributionManagement>
 
 	<repositories>
-+		<repository>
-+			<snapshots>
-+				<enabled>true</enabled>
-+			</snapshots>
-+			<id>spigot-public</id>
-+			<name>SpigotMC</name>
-+			<url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
-+		</repository>
+		<repository>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+			<id>spigot-public</id>
+			<name>SpigotMC</name>
+			<url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
+		</repository>
 		<repository>
 			<id>rs-public</id>
 			<name>Rennschnitzel Public Group</name>
