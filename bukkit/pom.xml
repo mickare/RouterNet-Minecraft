@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>de.mickare.routernet.mc</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.0.2</version>
+		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>bukkit</artifactId>
@@ -103,37 +103,21 @@
 
 	<distributionManagement>
 		<repository>
-			<id>rs-protected</id>
-			<name>Rennschnitzel Protected Repository</name>
-			<url>http://nexus.spacier.de/content/repositories/rs-protected/</url>
+			<id>rs-public</id>
+			<name>Rennschnitzel Public Repository</name>
+			<url>http://nexus.spacier.de/content/repositories/rs-public/</url>
 		</repository>
 		<snapshotRepository>
-			<id>rs-protected</id>
-			<name>Rennschnitzel Protected Repository</name>
-			<url>http://nexus.spacier.de/content/repositories/rs-protected/</url>
+			<id>rs-public</id>
+			<name>Rennschnitzel Public Repository</name>
+			<url>http://nexus.spacier.de/content/repositories/rs-public/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
 	<repositories>
 		<repository>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-			<id>spigot-public</id>
-			<name>SpigotMC</name>
-			<url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
-		</repository>
-		<repository>
-			<id>rs-protected</id>
-			<name>Rennschnitzel Protected Repository</name>
-			<url>http://nexus.spacier.de/content/repositories/rs-protected/</url>
-		</repository>
-		<repository>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
 			<id>rs-public</id>
-			<name>Rennschnitzel Public Repository</name>
+			<name>Rennschnitzel Public Group</name>
 			<url>http://nexus.spacier.de/content/groups/public/</url>
 		</repository>
 	</repositories>
