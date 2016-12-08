@@ -1,0 +1,7 @@
+name: RouterNet
+main: de.rennschnitzel.routernet.mc.bukkit.NetPlugin
+version: 0.0.2
+website: https://github.com/mickare/RouterNet-Minecraft
+authors: [mickare]
+description: RouterNet Client for Bukkit
+commands:

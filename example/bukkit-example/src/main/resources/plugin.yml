@@ -1,0 +1,18 @@
+name: RouterNetMc-BukkitExample
+main: de.rennschnitzel.routernet.mc.bukkit.BukkitExamplePlugin
+version: 0.0.2
+website: https://github.com/mickare/RouterNet-Minecraft
+authors: [mickare]
+description: Example Plugin for RouterNet on Bukkit.
+depends: [RouterNet]
+commands:
+  players:
+    description: List all Players in the network.
+    usage: /<command>
+  m:
+    description: Sends a private message to a player
+    usage: /<command> <player> <text>
+  stresstest:
+    description: Tests the network capacity
+    usage: /<command> <times>
+  
