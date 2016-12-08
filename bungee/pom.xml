@@ -108,7 +108,11 @@
 		</snapshotRepository>
 	</distributionManagement>
 
-	<repositories>
+	<repositories>	
++		<repository>
++			<id>bungeecord-repo</id>
++			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
++		</repository>
 		<repository>
 			<id>rs-public</id>
 			<name>Rennschnitzel Public Group</name>
