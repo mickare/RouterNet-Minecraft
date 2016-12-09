@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.mickare.routernet.mc</groupId>
-	<artifactId>parent</artifactId>
+	<artifactId>routernetmc-parent</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 

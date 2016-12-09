@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>de.mickare.routernet.mc</groupId>
-		<artifactId>parent</artifactId>
+		<artifactId>routernetmc-parent</artifactId>
 		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>bungee</artifactId>
+	<artifactId>routernetmc-bungee</artifactId>
 	<name>RouterNet-Mc-bungee</name>
 	<url>https://github.com/mickare/RouterNet-Minecraft</url>
 
@@ -22,7 +22,7 @@
 		</dependency>
 		<dependency>
 			<groupId>de.mickare.routernet</groupId>
-			<artifactId>client</artifactId>
+			<artifactId>routernet-client</artifactId>
 			<version>0.0.2</version>
 		</dependency>
 		<dependency>

@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.mickare.routernet.mc</groupId>
-	<artifactId>bukkit-test</artifactId>
+	<artifactId>routernetmc-bukkit-test</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -56,7 +56,7 @@
 		</dependency>
 		<dependency>
 			<groupId>de.mickare.routernet</groupId>
-			<artifactId>client</artifactId>
+			<artifactId>routernet-client</artifactId>
 			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
