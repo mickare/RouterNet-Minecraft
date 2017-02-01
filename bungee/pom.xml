@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>de.mickare.routernet</groupId>
 			<artifactId>routernet-client</artifactId>
-			<version>0.0.2</version>
+			<version>0.0.3</version>
 		</dependency>
 		<dependency>
 			<groupId>net.md-5</groupId>
@@ -67,7 +67,7 @@
 						<configuration>
 							<artifactSet>
 								<includes>
-									<include>de.mickare.net:*</include>
+									<include>de.mickare.routernet:*</include>
 									<include>io.netty:*</include>
 									<include>com.google.protobuf:*</include>
 									<include>de.ruedigermoeller:fst:*</include>
