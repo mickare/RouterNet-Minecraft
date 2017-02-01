@@ -105,12 +105,12 @@
 		<repository>
 			<id>rs-public</id>
 			<name>Rennschnitzel Public Repository</name>
-			<url>http://nexus.spacier.de/content/repositories/rs-public/</url>
+			<url>http://repo.rennschnitzel.de:8081/nexus/content/repositories/rs-public/</url>
 		</repository>
 		<snapshotRepository>
 			<id>rs-public</id>
 			<name>Rennschnitzel Public Repository</name>
-			<url>http://nexus.spacier.de/content/repositories/rs-public/</url>
+			<url>http://repo.rennschnitzel.de:8081/nexus/content/repositories/rs-public/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
@@ -126,7 +126,7 @@
 		<repository>
 			<id>rs-public</id>
 			<name>Rennschnitzel Public Group</name>
-			<url>http://nexus.spacier.de/content/groups/public/</url>
+			<url>http://repo.rennschnitzel.de:8081/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 

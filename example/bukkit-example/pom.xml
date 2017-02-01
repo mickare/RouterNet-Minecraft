@@ -31,7 +31,7 @@
 			</snapshots>
 			<id>rs-public</id>
 			<name>Rennschnitzel Public Repository</name>
-			<url>http://nexus.spacier.de/content/groups/public/</url>
+			<url>http://repo.rennschnitzel.de:8081/nexus/content/groups/public/</url>
 		</repository>
 
 	</repositories>
